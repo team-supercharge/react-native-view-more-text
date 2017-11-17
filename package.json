@@ -19,14 +19,5 @@
     "text",
     "react-native-view-more-text"
   ],
-  "author": "team-supercharge",
-  "dependencies": {
-    "prop-types": "15.6.0",
-    "react": "16.0.0",
-    "react-native": "0.50.1"
-  },
-  "peerDependencies": {
-    "react": "*",
-    "react-native": "*"
-  }
+  "author": "team-supercharge"
 }
